@@ -278,6 +278,9 @@ textarea:valid ~ label {
     color: orange;
 }
 
+.package.brilliant {
+    border: 5px solid orange;
+}
 /* Footer Area Styles */
 
 footer {
