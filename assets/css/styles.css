@@ -52,3 +52,23 @@ html {
     display: block;
     /* transition: all ease-out 300ms;*/
 }
+
+.nav ul li.active a {
+    color: white;
+}
+.nav ul li:not(.active)::after {
+    opacity: 0.2;
+}
+.nav ul li:not(.active):hover a {
+    color: rgba(255, 255, 255, 0.75);
+}
+.nav ul li::after {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 0.2em;
+    background: black;
+    left: 0;
+    bottom: 0;
+    background-image: linear-gradient(to right, #999, #fff);
+}
