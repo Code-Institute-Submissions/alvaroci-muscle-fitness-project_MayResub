@@ -254,6 +254,19 @@ textarea:valid ~ label {
     text-align: center;
 }
 
+.package div {
+    text-align: center;
+    color: orange;
+    border: 1px solid #e4e4e4;
+    border-radius: 15px;
+    padding: 2px 0px;
+    position: relative;
+    top: 10px;
+    left: 26px;
+    background-color: #fff;
+    width: 80%;
+}
+
 /* Footer Area Styles */
 
 footer {
