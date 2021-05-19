@@ -26,8 +26,11 @@ body {
 }
 
 .sidebar img {
-    margin-left: 25px;
-    margin-right: 25px;
+    /* margin-left: 25px;
+    margin-right: 25px; */
+    height: 100px;
+    width: 200px;
+    margin: auto;
 }
 
 .menu-hamburger {
