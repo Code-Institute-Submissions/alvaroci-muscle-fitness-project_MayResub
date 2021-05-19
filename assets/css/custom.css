@@ -267,6 +267,17 @@ textarea:valid ~ label {
     width: 80%;
 }
 
+.package ul {
+    margin-top: 50px;
+}
+.package ul li {
+    padding: 15px;
+}
+.package ul li i {
+    padding-right: 6px;
+    color: orange;
+}
+
 /* Footer Area Styles */
 
 footer {
