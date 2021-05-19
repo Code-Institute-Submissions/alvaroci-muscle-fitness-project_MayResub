@@ -108,6 +108,19 @@ footer {
     padding: 30px;
 }
 
+footer p {
+    color: white;
+    text-align: center;
+    margin: 15px 0px;
+}
+
+footer h3 {
+    margin-bottom: 15px;
+    font-size: 20px;
+    font-weight: bolder;
+    color: #ccc;
+}
+
 .footer-container {
     display: flex;
     justify-content: space-between;
