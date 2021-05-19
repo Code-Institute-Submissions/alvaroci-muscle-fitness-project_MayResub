@@ -225,6 +225,15 @@ textarea:valid ~ label {
     transform: translateY(1px);
 }
 
+/* packages styles area */
+.wrapper {
+    display: flex;
+    flex-wrap: nowrap;
+    margin-top: 30px;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
 /* Footer Area Styles */
 
 footer {
