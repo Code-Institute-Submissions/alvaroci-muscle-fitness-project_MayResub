@@ -234,6 +234,26 @@ textarea:valid ~ label {
     justify-content: space-around;
 }
 
+.package {
+    background-color: rgb(243, 243, 243);
+    border: lightyellow;
+    padding: 20px;
+    border-radius: 10px;
+    min-width: 25%;
+}
+
+.package h1 {
+    font-size: 2rem;
+    padding: 10px 0px;
+    color: #222;
+    text-align: center;
+}
+.package h3 {
+    padding: 10px 0px;
+    color: rgb(143, 142, 142);
+    text-align: center;
+}
+
 /* Footer Area Styles */
 
 footer {
