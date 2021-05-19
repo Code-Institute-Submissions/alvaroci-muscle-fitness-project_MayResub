@@ -138,9 +138,29 @@ body {
     max-width: 100%;
     margin: 20px auto 25px auto;
 }
+
+.styled-input {
+    float: left;
+    width: 320px;
+    margin: 1rem 0;
+    position: relative;
+    border-radius: 4px;
+}
+
 .styled-input.wide {
     width: 650px;
     max-width: 100%;
+}
+
+.styled-input label {
+    color: #999;
+    padding: 1.3rem 30px 1rem 30px;
+    position: absolute;
+    top: 10px;
+    left: 0;
+
+    transition: all 0.25s ease;
+    pointer-events: none;
 }
 
 input,
@@ -170,22 +190,15 @@ textarea {
     min-height: 15em;
 }
 
-.styled-input label {
+input:focus ~ label,
+textarea:focus ~ label,
+input:valid ~ label,
+textarea:valid ~ label {
+    font-size: 0.75em;
     color: #999;
-    padding: 1.3rem 30px 1rem 30px;
-    position: absolute;
-    top: 10px;
-    left: 0;
+    top: -5px;
 
-    transition: all 0.25s ease;
-    pointer-events: none;
-}
-.styled-input {
-    float: left;
-    width: 320px;
-    margin: 1rem 0;
-    position: relative;
-    border-radius: 4px;
+    transition: all 0.225s ease;
 }
 
 /* Footer Area Styles */
