@@ -158,6 +158,18 @@ textarea:focus {
     outline: 0;
 }
 
+input:focus ~ span,
+textarea:focus ~ span {
+    width: 100%;
+
+    transition: all 0.075s ease;
+}
+
+textarea {
+    width: 100%;
+    min-height: 15em;
+}
+
 /* Footer Area Styles */
 
 footer {
