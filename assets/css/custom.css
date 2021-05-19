@@ -1,3 +1,4 @@
+/* global styles */
 @import url("https://fonts.googleapis.com/css?family=Open+Sans");
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300;500&display=swap");
 * {
@@ -12,6 +13,9 @@ body {
 .container {
     display: flex;
 }
+
+/* sidebar styles */
+
 .sidebar {
     background-color: #000000;
     width: 25%;
@@ -68,6 +72,8 @@ body {
     border-bottom: 2px solid #fff;
 }
 
+/* home page styles */
+
 .content.contact p {
     color: rgb(241, 239, 239);
     line-height: 23px;
@@ -103,6 +109,8 @@ body {
     height: 100%;
 }
 
+/* Service Section styles */
+
 .service-img-section {
     display: flex;
     flex-wrap: nowrap;
@@ -124,7 +132,7 @@ body {
     height: 100%;
 }
 
-/* Footer Area */
+/* Footer Area Styles */
 
 footer {
     background-color: rgba(151, 151, 151, 0.404);
