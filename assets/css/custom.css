@@ -132,6 +132,17 @@ body {
     height: 100%;
 }
 
+/* contact form style */
+.input-container {
+    width: 650px;
+    max-width: 100%;
+    margin: 20px auto 25px auto;
+}
+.styled-input.wide {
+    width: 650px;
+    max-width: 100%;
+}
+
 /* Footer Area Styles */
 
 footer {
