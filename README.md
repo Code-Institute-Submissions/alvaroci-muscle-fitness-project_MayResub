@@ -26,6 +26,15 @@ one line added
 
 -   Mobile responsive for good user experience.
 
+### Existing Features
+
+-   **Navigation Bar**
+
+    -   Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
+    -   This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
+
+![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
+
 ## User Experience (UX)
 
 ### User stories
