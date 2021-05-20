@@ -9,3 +9,15 @@ On the third page, join us, the client can, if he wishes, contact the company, t
 The fourth page is a page to show the different memberships as well as their price, so that the client gets the idea of ​​what type of company we are, and the prices we have.
 On the fifth and last page, the client can learn more about the history of the company, in case he wants to continue learning more about the fictitious muscle & fitness company.
 one line added
+
+# MUSCLE AND FITNESS - GYM WEBSITE.
+
+## User Experience (UX)
+
+### User stories
+
+#### First Time Visitor Goals:
+
+-   As a First Time Visitor, I want to easily understand the main purpose of the organization and learn more about it.
+-   As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
+-   As a First Time Visitor, I want to look for information about what they do, and what services they offer
