@@ -94,3 +94,19 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
     ![alt](./assets/img/W3CCSSValidate.png)
 
 Testing User Stories from User Experience (UX) Section
+
+First Time Visitor Goals
+
+    As a First Time Visitor, I want to easily understand the main purpose of the organization and learn more about it.
+        Upon entering the site, users are automatically greeted with a clean and easily readable navigation bar to go to the page of their choice.
+
+    As a First Time Visitor, I want to be able to easily be able to navigate throughout the site to find content.
+        The site has been designed to be fluid and never to entrap the user. At the side of each page there is a clean navigation bar, each link describes what the page they will end up at clearly.
+
+On the Join Us Page, you can cleary contact with the organization for any querie.
+
+    As a First Time Visitor, I want to look for information about what they do, and what services they offer
+        Once the new visitor has read the About Us, they will be able to understand the born and main concept of the organization.
+
+Also in the Services page, he will be able to see what the organization offer.
+They can contact trough the join us page with the organization for any other further info they may need.
