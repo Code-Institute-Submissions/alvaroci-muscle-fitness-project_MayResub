@@ -42,6 +42,13 @@ one line added
 
 ![Landing Page](https://github.com/alvaroci/muscle-fitness-project/blob/master/assets/img/mockups/homepage.png)
 
+-   **The Footer**
+
+    -   The footer section includes links to the relevant social media sites for Muscle and Fitness. The links will open to a new tab to allow easy navigation for the user.
+    -   The footer is valuable to the user as it encourages them to keep connected via social media
+
+![Footer](https://github.com/alvaroci/muscle-fitness-project/blob/master/assets/img/mockups/footer.png)
+
 ## User Experience (UX)
 
 ### User stories
