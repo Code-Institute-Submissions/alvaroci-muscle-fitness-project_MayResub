@@ -128,3 +128,16 @@ Returning Visitor Goals
         The Facebook Page can be found at the footer of every page and will open a new tab for the user and more information can be found on the Facebook page.
         Alternatively, the user can scroll to the bottom of the Home page to find the Facebook Group redirect card and can easily join by clicking the "Join Now!" button which like any external link, will open in a new tab to ensure they can get back to the website easily.
         If the user is on the "Our Favourites" page they will also be greeted with a call to action button to invite the user to the Facebook group. The user is incentivized as they are told there is a weekly favourite product posted in the group.
+
+Frequent User Goals
+
+        As a Frequent User, I want to check to see if there are any newly added challenges or hackathons.
+            The user would already be comfortable with the website layout and can easily click the banner message.
+
+        As a Frequent User, I want to check to see if there are any new blog posts.
+            The user would already be comfortable with the website layout and can easily click the blog link
+
+        As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes to the website or organisation.
+            At the bottom of every page their is a footer which content is consistent throughout all pages.
+            To the right hand side of the footer the user can see "Subscribe to our Newsletter" and are prompted to Enter their email address.
+            There is a "Submit" button to the right hand side of the input field which is located close to the field and can easily be distinguished.
