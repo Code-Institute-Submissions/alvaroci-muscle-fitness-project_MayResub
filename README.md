@@ -141,3 +141,16 @@ Frequent User Goals
             At the bottom of every page their is a footer which content is consistent throughout all pages.
             To the right hand side of the footer the user can see "Subscribe to our Newsletter" and are prompted to Enter their email address.
             There is a "Submit" button to the right hand side of the input field which is located close to the field and can easily be distinguished.
+
+Further Testing
+
+    The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
+    The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7, iPhone 8 & iPhoneX.
+    A large amount of testing was done to ensure that all pages were linking correctly.
+    Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
+
+Known Bugs
+
+    On some mobile devices the Hero Image pushes the size of screen out more than any of the other content on the page.
+        A white gap can be seen to the right of the footer and navigation bar as a result.
+    On Microsoft Edge and Internet Explorer Browsers, all links in Navbar are pushed upwards when hovering over them.
