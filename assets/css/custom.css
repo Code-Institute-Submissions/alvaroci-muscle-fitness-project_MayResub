@@ -150,6 +150,10 @@ body {
     border-radius: 4px;
 }
 
+.styled-input.right {
+    float: right;
+}
+
 .styled-input.wide {
     width: 650px;
     max-width: 100%;
