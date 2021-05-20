@@ -1,4 +1,4 @@
-# GYM WEBSITE.
+# MUSCLE AND FITNESS - GYM WEBSITE.
 
 This page is designed for a made-up client, who wants to have a position on the web, making his company known, in this case his gym business.
 The main objective of the web is to first have a site on the web, two so that potential clients can see the type of services it offers, its company philosophy, who they are, what they do and what target audience they target. .
@@ -16,7 +16,7 @@ The fourth page is a page to show the different memberships as well as their pri
 On the fifth and last page, the client can learn more about the history of the company, in case he wants to continue learning more about the fictitious muscle & fitness company.
 one line added
 
-# MUSCLE AND FITNESS - GYM WEBSITE.
+![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
 
 ## User Experience (UX)
 
