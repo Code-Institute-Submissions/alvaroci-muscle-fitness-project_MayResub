@@ -16,7 +16,7 @@ The fourth page is a page to show the different memberships as well as their pri
 On the fifth and last page, the client can learn more about the history of the company, in case he wants to continue learning more about the fictitious muscle & fitness company.
 one line added
 
-![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
+![Responsive View](https://github.com/alvaroci/muscle-fitness-project/blob/master/assets/img/mockups/responsive.jpg)
 
 ## User Experience (UX)
 
