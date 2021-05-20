@@ -184,3 +184,29 @@ Making a Local Clone
     Open Git Bash
     Change the current working directory to the location where you want the cloned directory to be made.
     Type git clone, and then paste the URL you copied in Step 3.
+
+$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+
+    Press Enter. Your local clone will be created.
+
+$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+
+> Cloning into `CI-Clone`...
+> remote: Counting objects: 10, done.
+> remote: Compressing objects: 100% (8/8), done.
+> remove: Total 10 (delta 1), reused 10 (delta 1)
+> Unpacking objects: 100% (10/10), done.
+
+Click Here to retrieve pictures for some of the buttons and more detailed explanations of the above process.
+Credits
+Code
+
+The full-screen hero image code came from this StackOverflow post
+
+    Bootstrap4: Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
+
+    MDN Web Docs : For Pattern Validation code. Code was modified to better fit my needs and to match an Irish phone number layout to ensure correct validation. Tutorial Found Here
+
+Content
+
+    All content was written by the developer.
