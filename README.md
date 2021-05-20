@@ -142,13 +142,16 @@ GitHub Pages
 
 The project was deployed to GitHub Pages using the following steps...
 
-    Log in to GitHub and locate the GitHub Repository
-    At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
-        Alternatively Click Here for a GIF demonstrating the process starting from Step 2.
-    Scroll down the Settings page until you locate the "GitHub Pages" Section.
-    Under "Source", click the dropdown called "None" and select "Master Branch".
-    The page will automatically refresh.
-    Scroll back down through the page to locate the now published site link in the "GitHub Pages" section.
+-   Log in to GitHub and locate the GitHub Repository
+
+-   At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
+-   Scroll down the Settings page until you locate the "GitHub Pages" Section.
+
+-   Under "Source", click the dropdown called "None" and select "Master Branch".
+
+-   The page will automatically refresh.
+
+-   Scroll back down through the page to locate the now published site link in the "GitHub Pages" section.
 
 Forking the GitHub Repository
 
