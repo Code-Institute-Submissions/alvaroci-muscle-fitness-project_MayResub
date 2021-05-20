@@ -27,3 +27,9 @@ one line added
 -   As a Returning Visitor, I want to find new updates and information about the organization.
 -   As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions related to their services or my membership
 -   As a Returning Visitor, I want to find easily new content or new services the may be offering.
+
+#### Frequent User Goals
+
+-   As a Frequent User, I want to check to see if there are any newly added content or updates about services or related to the gym situation
+-   As a Frequent User, I want to check to see if there are any new media content about what they do.
+-   As a Frequent User, I want to be able to find a easy way to get in contact with the organization.
