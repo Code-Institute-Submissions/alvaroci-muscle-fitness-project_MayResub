@@ -20,11 +20,26 @@ one line added
 
 ## Features
 
--   We have a contact page where users can contact us
+-   Responsive on all device sizes
+-   Interactive elements
+-   Easy to Navigate
+-   Simple
 
--   A Navigation sidebar with links to all five pages of our website
+## Technologies Used
 
--   Mobile responsive for good user experience.
+**Languages Used**
+
+-   HTML5
+-   CSS3
+
+**Frameworks, Libraries & Programs Used**
+
+-   Google Fonts:
+    Google fonts were used to import the 'Titillium Web' font into the style.css file which is used on all pages throughout the project.
+-   Git
+    Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
+-   GitHub:
+    GitHub is used to store the projects code after being pushed from Git.
 
 ### Existing Features
 
@@ -48,6 +63,10 @@ one line added
     -   The footer is valuable to the user as it encourages them to keep connected via social media
 
 ![Footer](https://github.com/alvaroci/muscle-fitness-project/blob/master/assets/img/mockups/footer.png)
+
+### Features Left to Implement
+
+-   Mobile menu hamburger function
 
 ## User Experience (UX)
 
@@ -92,29 +111,6 @@ Imagery is important. The large, and background hero images are designed to be s
         Mobile Wireframe - View
 
         Contact Us Page Wireframe - View -->
-
-## Features
-
--   Responsive on all device sizes
--   Interactive elements
--   Easy to Navigate
--   Simple
-
-## Technologies Used
-
-**Languages Used**
-
--   HTML5
--   CSS3
-
-**Frameworks, Libraries & Programs Used**
-
--   Google Fonts:
-    Google fonts were used to import the 'Titillium Web' font into the style.css file which is used on all pages throughout the project.
--   Git
-    Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
--   GitHub:
-    GitHub is used to store the projects code after being pushed from Git.
 
 ## Testing
 
