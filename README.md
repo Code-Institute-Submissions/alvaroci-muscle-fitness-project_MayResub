@@ -3,6 +3,10 @@
 This page is designed for a made-up client, who wants to have a position on the web, making his company known, in this case his gym business.
 The main objective of the web is to first have a site on the web, two so that potential clients can see the type of services it offers, its company philosophy, who they are, what they do and what target audience they target. .
 
+![Responsive View](https://github.com/alvaroci/muscle-fitness-project/blob/master/assets/img/mockups/responsive.jpg)
+
+## Site Map
+
 Through the different sections we can access the sections of the web:
 
 On the first page, we have a couple of images that show us the type of activities carried out by the company, as well as a brief summary of who they are and what they do.
@@ -15,8 +19,6 @@ The fourth page is a page to show the different memberships as well as their pri
 
 On the fifth and last page, the client can learn more about the history of the company, in case he wants to continue learning more about the fictitious muscle & fitness company.
 one line added
-
-![Responsive View](https://github.com/alvaroci/muscle-fitness-project/blob/master/assets/img/mockups/responsive.jpg)
 
 ## Features
 
