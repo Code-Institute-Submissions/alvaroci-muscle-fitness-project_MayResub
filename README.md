@@ -33,3 +33,17 @@ one line added
 -   As a Frequent User, I want to check to see if there are any newly added content or updates about services or related to the gym situation
 -   As a Frequent User, I want to check to see if there are any new media content about what they do.
 -   As a Frequent User, I want to be able to find a easy way to get in contact with the organization.
+
+## Design
+
+### Colour Scheme
+
+The three main colours used are Grey, Black and white.
+
+## Typography
+
+The Arial and Monserrat font is the main font used throughout the whole website.
+
+## Imagery
+
+Imagery is important. The large, and background hero images are designed to be striking and catch the user's attention. It also has a modern, energetic aesthetic.
