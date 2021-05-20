@@ -7,6 +7,28 @@ The main objective of the web is to first have a site on the web, two so that po
 
 ![Responsive View](https://github.com/alvaroci/muscle-fitness-project/blob/master/assets/img/mockups/responsive.jpg)
 
+## User Experience (UX)
+
+### User stories
+
+#### First Time Visitor Goals:
+
+-   As a First Time Visitor, I want to easily understand the main purpose of the organization and learn more about it.
+-   As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
+-   As a First Time Visitor, I want to look for information about what they do, and what services they offer
+
+#### Returning Visitor Goals
+
+-   As a Returning Visitor, I want to find new updates and information about the organization.
+-   As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions related to their services or my membership
+-   As a Returning Visitor, I want to find easily new content or new services the may be offering.
+
+#### Frequent User Goals
+
+-   As a Frequent User, I want to check to see if there are any newly added content or updates about services or related to the gym situation
+-   As a Frequent User, I want to check to see if there are any new media content about what they do.
+-   As a Frequent User, I want to be able to find a easy way to get in contact with the organization.
+
 ## Site Map
 
 Through the different sections we can access the sections of the web:
@@ -75,28 +97,6 @@ Wrote Media queries for screen size 768px and 480px that applies styles for mobi
 ### Features Left to Implement
 
 -   Mobile menu hamburger function
-
-## User Experience (UX)
-
-### User stories
-
-#### First Time Visitor Goals:
-
--   As a First Time Visitor, I want to easily understand the main purpose of the organization and learn more about it.
--   As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
--   As a First Time Visitor, I want to look for information about what they do, and what services they offer
-
-#### Returning Visitor Goals
-
--   As a Returning Visitor, I want to find new updates and information about the organization.
--   As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions related to their services or my membership
--   As a Returning Visitor, I want to find easily new content or new services the may be offering.
-
-#### Frequent User Goals
-
--   As a Frequent User, I want to check to see if there are any newly added content or updates about services or related to the gym situation
--   As a Frequent User, I want to check to see if there are any new media content about what they do.
--   As a Frequent User, I want to be able to find a easy way to get in contact with the organization.
 
 ## Design
 
