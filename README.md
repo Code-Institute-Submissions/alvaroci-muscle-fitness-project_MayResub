@@ -110,3 +110,21 @@ On the Join Us Page, you can cleary contact with the organization for any querie
 
 Also in the Services page, he will be able to see what the organization offer.
 They can contact trough the join us page with the organization for any other further info they may need.
+
+Returning Visitor Goals
+
+    As a Returning Visitor, I want to find the new programming challenges or hackathons.
+        These are clearly shown in the banner message.
+        They will be directed to a page with another hero image and call to action.
+
+    As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have.
+        The navigation bar clearly highlights the "Contact Us" Page.
+        Here they can fill out the form on the page or are told that alternatively they can message the organisation on social media.
+        The footer contains links to the organisations Facebook, Twitter and Instagram page as well as the organization's email.
+        Whichever link they click, it will be open up in a new tab to ensure the user can easily get back to the website.
+        The email button is set up to automatically open up your email app and autofill there email address in the "To" section.
+
+    As a Returning Visitor, I want to find the Facebook Group link so that I can join and interact with others in the community.
+        The Facebook Page can be found at the footer of every page and will open a new tab for the user and more information can be found on the Facebook page.
+        Alternatively, the user can scroll to the bottom of the Home page to find the Facebook Group redirect card and can easily join by clicking the "Join Now!" button which like any external link, will open in a new tab to ensure they can get back to the website easily.
+        If the user is on the "Our Favourites" page they will also be greeted with a call to action button to invite the user to the Facebook group. The user is incentivized as they are told there is a weekly favourite product posted in the group.
