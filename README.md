@@ -82,3 +82,7 @@ Imagery is important. The large, and background hero images are designed to be s
     GitHub is used to store the projects code after being pushed from Git.
 -   Balsamiq:
     Balsamiq was used to create the wireframes during the design process.
+
+## Testing
+
+The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
