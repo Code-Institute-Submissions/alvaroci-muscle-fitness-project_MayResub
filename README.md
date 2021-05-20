@@ -18,6 +18,14 @@ one line added
 
 ![Responsive View](https://github.com/alvaroci/muscle-fitness-project/blob/master/assets/img/mockups/responsive.jpg)
 
+## Features
+
+-   We have a contact page where users can contact us
+
+-   A Navigation sidebar with links to all five pages of our website
+
+-   Mobile responsive for good user experience.
+
 ## User Experience (UX)
 
 ### User stories
