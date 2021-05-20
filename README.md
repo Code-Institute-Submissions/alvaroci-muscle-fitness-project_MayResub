@@ -86,3 +86,11 @@ Imagery is important. The large, and background hero images are designed to be s
 ## Testing
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
+
+-   **W3C Markup Validator**
+    ![alt](./assets/img/W3CMarkupValidate.png)
+
+-   **W3C CSS Validator**
+    ![alt](./assets/img/W3CCSSValidate.png)
+
+Testing User Stories from User Experience (UX) Section
