@@ -22,6 +22,10 @@ The fourth page is a page to show the different memberships as well as their pri
 On the fifth and last page, the client can learn more about the history of the company, in case he wants to continue learning more about the fictitious muscle & fitness company.
 one line added
 
+## Responsiveness
+
+Wrote Media queries for screen size 768px and 480px that applies styles for mobile and tablet size devices, makes it responsive for both of the devices.
+
 ## Features
 
 -   Responsive on all device sizes
