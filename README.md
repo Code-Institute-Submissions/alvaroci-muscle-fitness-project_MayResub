@@ -124,55 +124,6 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 -   **W3C CSS Validator**
     ![alt](./assets/img/W3CCSSValidate.png)
 
-Testing User Stories from User Experience (UX) Section
-
-First Time Visitor Goals
-
-    As a First Time Visitor, I want to easily understand the main purpose of the organization and learn more about it.
-        Upon entering the site, users are automatically greeted with a clean and easily readable navigation bar to go to the page of their choice.
-
-    As a First Time Visitor, I want to be able to easily be able to navigate throughout the site to find content.
-        The site has been designed to be fluid and never to entrap the user. At the side of each page there is a clean navigation bar, each link describes what the page they will end up at clearly.
-
-On the Join Us Page, you can cleary contact with the organization for any querie.
-
-    As a First Time Visitor, I want to look for information about what they do, and what services they offer
-        Once the new visitor has read the About Us, they will be able to understand the born and main concept of the organization.
-
-Also in the Services page, he will be able to see what the organization offer.
-They can contact trough the join us page with the organization for any other further info they may need.
-
-Returning Visitor Goals
-
-    As a Returning Visitor, I want to find the new programming challenges or hackathons.
-        These are clearly shown in the banner message.
-        They will be directed to a page with another hero image and call to action.
-
-    As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have.
-        The navigation bar clearly highlights the "Contact Us" Page.
-        Here they can fill out the form on the page or are told that alternatively they can message the organisation on social media.
-        The footer contains links to the organisations Facebook, Twitter and Instagram page as well as the organization's email.
-        Whichever link they click, it will be open up in a new tab to ensure the user can easily get back to the website.
-        The email button is set up to automatically open up your email app and autofill there email address in the "To" section.
-
-    As a Returning Visitor, I want to find the Facebook Group link so that I can join and interact with others in the community.
-        The Facebook Page can be found at the footer of every page and will open a new tab for the user and more information can be found on the Facebook page.
-        Alternatively, the user can scroll to the bottom of the Home page to find the Facebook Group redirect card and can easily join by clicking the "Join Now!" button which like any external link, will open in a new tab to ensure they can get back to the website easily.
-        If the user is on the "Our Favourites" page they will also be greeted with a call to action button to invite the user to the Facebook group. The user is incentivized as they are told there is a weekly favourite product posted in the group.
-
-Frequent User Goals
-
-        As a Frequent User, I want to check to see if there are any newly added challenges or hackathons.
-            The user would already be comfortable with the website layout and can easily click the banner message.
-
-        As a Frequent User, I want to check to see if there are any new blog posts.
-            The user would already be comfortable with the website layout and can easily click the blog link
-
-        As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes to the website or organisation.
-            At the bottom of every page their is a footer which content is consistent throughout all pages.
-            To the right hand side of the footer the user can see "Subscribe to our Newsletter" and are prompted to Enter their email address.
-            There is a "Submit" button to the right hand side of the input field which is located close to the field and can easily be distinguished.
-
 Further Testing
 
     The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
