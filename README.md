@@ -69,3 +69,16 @@ Imagery is important. The large, and background hero images are designed to be s
 
 -   HTML5
 -   CSS3
+
+**Frameworks, Libraries & Programs Used**
+
+-   Bootstrap 4.4.1:
+    Bootstrap was used to assist with the responsiveness and styling of the website.
+-   Google Fonts:
+    Google fonts were used to import the 'Titillium Web' font into the style.css file which is used on all pages throughout the project.
+-   Git
+    Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
+-   GitHub:
+    GitHub is used to store the projects code after being pushed from Git.
+-   Balsamiq:
+    Balsamiq was used to create the wireframes during the design process.
