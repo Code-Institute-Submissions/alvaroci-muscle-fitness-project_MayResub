@@ -21,3 +21,9 @@ one line added
 -   As a First Time Visitor, I want to easily understand the main purpose of the organization and learn more about it.
 -   As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
 -   As a First Time Visitor, I want to look for information about what they do, and what services they offer
+
+#### Returning Visitor Goals
+
+-   As a Returning Visitor, I want to find new updates and information about the organization.
+-   As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions related to their services or my membership
+-   As a Returning Visitor, I want to find easily new content or new services the may be offering.
