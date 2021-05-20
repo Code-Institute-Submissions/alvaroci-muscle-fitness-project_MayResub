@@ -40,7 +40,7 @@ one line added
     -   The landing includes some images of the gym with some text information for the user to see exactly which location this site would be applicable to.
     -   This section introduces the user to Muscle and Gym with an eye catching Banner to grab their attention
 
-![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
+![Landing Page](https://github.com/alvaroci/muscle-fitness-project/blob/master/assets/img/mockups/homepage.png)
 
 ## User Experience (UX)
 
