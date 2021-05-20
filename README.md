@@ -47,3 +47,25 @@ The Arial and Monserrat font is the main font used throughout the whole website.
 ## Imagery
 
 Imagery is important. The large, and background hero images are designed to be striking and catch the user's attention. It also has a modern, energetic aesthetic.
+
+<!-- Wireframes
+
+        Home Page Wireframe - View
+
+        Mobile Wireframe - View
+
+        Contact Us Page Wireframe - View -->
+
+## Features
+
+-   Responsive on all device sizes
+-   Interactive elements
+-   Easy to Navigate
+-   Simple
+
+## Technologies Used
+
+**Languages Used**
+
+-   HTML5
+-   CSS3
