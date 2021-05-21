@@ -9,15 +9,15 @@ The main objective of the web is to first have a site on the web, two so that po
 
 # Wireframes
 
-        Who are we? Wireframe - [View ↣](https://github.com/alvaroci/muscle-fitness-project/blob/master/assets/img/wireframes/Homepage.jpg)
+-   Who are we? Wireframe - [View ↣](https://github.com/alvaroci/muscle-fitness-project/blob/master/assets/img/wireframes/Homepage.jpg)
 
-        Our Services Wireframe - View
+-   Our Services Wireframe - [View ↣](https://github.com/alvaroci/muscle-fitness-project/blob/master/assets/img/wireframes/Homepage.jpg)
 
-        Join Us Page Wireframe - View
+-   Join Us Page Wireframe - [View ↣](https://github.com/alvaroci/muscle-fitness-project/blob/master/assets/img/wireframes/Homepage.jpg)
 
-        Pricing Wireframe - view
+-   Pricing Wireframe - [View ↣](https://github.com/alvaroci/muscle-fitness-project/blob/master/assets/img/wireframes/Homepage.jpg)
 
-        About Us Wireframe - view
+-   About Us Wireframe - [View ↣](https://github.com/alvaroci/muscle-fitness-project/blob/master/assets/img/wireframes/Homepage.jpg)
 
 ## User Experience (UX)
 
