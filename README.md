@@ -7,6 +7,18 @@ The main objective of the web is to first have a site on the web, two so that po
 
 ![Responsive View](https://github.com/alvaroci/muscle-fitness-project/blob/master/assets/img/mockups/responsive.jpg)
 
+# Wireframes
+
+        Who are we? Wireframe - View
+
+        Our Services Wireframe - View
+
+        Join Us Page Wireframe - View
+
+        Pricing Wireframe - view
+
+        About Us Wireframe - view
+
 ## User Experience (UX)
 
 ### User stories
