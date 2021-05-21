@@ -9,15 +9,15 @@ The main objective of the web is to first have a site on the web, two so that po
 
 # Wireframes
 
--   Who are we? Wireframe - [View ↣](https://github.com/alvaroci/muscle-fitness-project/blob/master/assets/img/wireframes/Homepage.jpg)
+-   Who are we? Wireframe - [View ↣](https://raw.githubusercontent.com/alvaroci/muscle-fitness-project/master/assets/img/wireframes/Homepage.jpg)
 
--   Our Services Wireframe - [View ↣](https://github.com/alvaroci/muscle-fitness-project/blob/master/assets/img/wireframes/services.jpg)
+-   Our Services Wireframe - [View ↣](https://raw.githubusercontent.com/alvaroci/muscle-fitness-project/master/assets/img/wireframes/services.jpg)
 
--   Join Us Page Wireframe - [View ↣](https://github.com/alvaroci/muscle-fitness-project/blob/master/assets/img/wireframes/Contact.jpg)
+-   Join Us Page Wireframe - [View ↣](https://raw.githubusercontent.com/alvaroci/muscle-fitness-project/master/assets/img/wireframes/Contact.jpg)
 
--   Pricing Wireframe - [View ↣](https://github.com/alvaroci/muscle-fitness-project/blob/master/assets/img/wireframes/Pricing.jpg)
+-   Pricing Wireframe - [View ↣](https://raw.githubusercontent.com/alvaroci/muscle-fitness-project/master/assets/img/wireframes/Pricing.jpg)
 
--   About Us Wireframe - [View ↣](https://github.com/alvaroci/muscle-fitness-project/blob/master/assets/img/wireframes/About.jpg)
+-   About Us Wireframe - [View ↣](https://raw.githubusercontent.com/alvaroci/muscle-fitness-project/master/assets/img/wireframes/About.jpg)
 
 ## User Experience (UX)
 
